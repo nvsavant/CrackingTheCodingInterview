@@ -40,7 +40,7 @@ public class stack {
 
 	public void print() {
 		if (this.isEmpty() == true) {
-			System.out.println("List is empty");
+			System.out.println("Stack is empty");
 			return;
 		}
 		Node tempNode = headRef;
