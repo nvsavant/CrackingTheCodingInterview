@@ -10,8 +10,8 @@ public class largestRectangularArea {
 	private static int getMaxArea(int[] hist, int length) {
 		int returnValue = 1;
 		
-		To be implemented...
-		Pg.258 in Algos in C
+//		To be implemented...
+//		Pg.258 in Algos in C
 		
 		
 		return returnValue;
