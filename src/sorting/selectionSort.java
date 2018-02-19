@@ -4,7 +4,7 @@ public class selectionSort implements sorts {
 
 	@Override
 	public void sort(int[] arr) {
-		Pg.155
+//		Pg.155
 
 	}
 
